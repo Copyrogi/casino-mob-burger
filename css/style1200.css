@@ -1,0 +1,60 @@
+.container {
+	margin: 0 auto;
+	max-width: 100%;
+	padding: 0 15px;
+}
+.top {
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-between;
+	padding-bottom: 45px;
+}
+.top-menu {
+	display: block;
+}
+.top-menu ul {
+	margin-right: 0;
+    margin-top: 40px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.top-buttons {
+	 text-align: center;
+}
+footer .menu ul, .main-menu ul {
+	padding: 0 10%;
+}
+.banner1 {
+	padding-bottom: 40px;
+	background: linear-gradient(180deg, #1E2421 47.92%, rgb(10 11 13 / 39%) 100%);
+}
+.banner1-content {
+	text-align: center;
+}
+.main-menu {
+	padding-bottom: 40px;
+}
+.banner {
+	padding: 15px;
+}
+.text-banner p:nth-child(1) {
+	font-size: 28px;
+}
+.text-banner p:nth-child(2) {
+	font-size: 22px;
+}
+.text-banner p:nth-child(3) {
+	font-size: 30px;
+}
+.buttons-banner a:nth-child(1) {
+	padding: 12px 15px;
+}
+.buttons-banner a:nth-child(2) {
+	padding: 12px 10px;
+}
+.buttons-banner a {
+	margin-left: 20px;
+}
+.games {
+	justify-content: space-around;
+}
